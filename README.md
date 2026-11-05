@@ -7,4 +7,3 @@ Most, if not all online related features will not work because the game can't ac
 This game does not require Wi-Fi to run so you can play offline.
 # Credits
 All rights to this game belong to RobTop.
-I converted a web-port of Geometry Dash to an html file, so don't give credit to me as the original creator.
